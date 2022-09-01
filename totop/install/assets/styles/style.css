@@ -1,0 +1,20 @@
+/*
+ * Файл local/modules/totop/install/assets/styles/style.css
+*/
+
+#totop-button {
+    position: fixed;
+    cursor: pointer;
+    display: none;
+}
+
+#totop-button:before {
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 25px solid #fff;
+    margin: 9px auto 0;
+    display: block;
+}
