@@ -1,6 +1,5 @@
 <?php
 /*
-* Файл local/modules/totop/include.php
 *
 * Регистрируем класс
 *
