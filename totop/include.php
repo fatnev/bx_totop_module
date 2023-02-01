@@ -1,9 +1,5 @@
 <?php
-/*
-*
-* Регистрируем класс
-*
-*/
+/* Регистрируем класс */
 
 
 Bitrix\Main\Loader::registerAutoloadClasses(
